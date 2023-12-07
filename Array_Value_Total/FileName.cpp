@@ -2,7 +2,7 @@
 In this code we will get value from user for index of array
 and write array on the screen and write total of the elements of the array.
 
-Coder: Barýþ Someroðlu
+Coder: Barış Someroğlu
 Date: 07.12.23 / 01:10 a.m.
 */
 
