@@ -2,7 +2,7 @@
 In this code we will get value from user for index of array
 and write array on the screen and write total of the elements of the array.
 
-Coder: Barýþ Someroðlu
+Coder: BarÃ½Ã¾ SomeroÃ°lu
 Date: 07.12.23 / 01:10 a.m.
 */
 
@@ -15,14 +15,14 @@ using namespace std;
 
 int main()
 {
-	int B[5], deger, Total = 0;
+	int B[5], Value, Total = 0;
 
 	for (int i = 0; i < 5; i++)
 	{
 		cout << "Please Enter Value for element of the array: ";
-		cin >> deger;
+		cin >> Value;
 
-		B[i] = deger;
+		B[i] = Value;
 
 		Total += B[i];
 	}
